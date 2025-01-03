@@ -23,6 +23,16 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashish-jha-11&" alt="aashish-jha-11" /></p>
 
+ <div style="display: flex; justify-content: space-between;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aashish-Jha-11&theme=aura" width="45%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aashish-Jha-11&theme=aura" alt="Most Commit Language" width="45%" />
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aashish-Jha-11&theme=aura" alt="GitHub Stats" width="45%" />
+</div>
+
+
 ![snake gif](https://github.com/Aashish-Jha-11/Aashish-Jha-11/blob/output/github-snake-dark.svg)
 
 
