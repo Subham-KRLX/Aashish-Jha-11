@@ -21,12 +21,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aashish-jha-11&show_icons=true&locale=en" alt="aashish-jha-11" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashish-jha-11&" alt="aashish-jha-11" /></p>
 
 ![snake gif](https://github.com/Aashish-Jha-11/Aashish-Jha-11/blob/output/github-snake-dark.svg)
 
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashish-jha-11&" alt="aashish-jha-11" /></p>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Aashish-Jha-11/count.svg" />
