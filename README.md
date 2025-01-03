@@ -3,9 +3,9 @@
 <!-- <h1 align="center">Hi 👋, I'm Aashish Jha</h1> -->
 <h3 align="center">I’m a passionate developer, a dedicated coder, tech enthusiast and a technology lover who enjoys creating and solving problems.</h3>
 
-<img align="right" alt="coding" width="300" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+<img align="right" alt="coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aashish-jha-11&label=Profile%20views&color=0e75b6&style=flat" alt="aashish-jha-11" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashish-jha-11&label=Profile%20views&color=0e75b6&style=flat" alt="aashish-jha-11" /> </p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,3 +22,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aashish-jha-11&show_icons=true&locale=en" alt="aashish-jha-11" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashish-jha-11&" alt="aashish-jha-11" /></p>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Aashish-Jha-11/count.svg" />
+</p>
