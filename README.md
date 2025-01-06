@@ -32,7 +32,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aashish-Jha-11&theme=aura" alt="GitHub Stats" width="45%" />
 </div>
 
-
+<!--snake GIF-->
 ![snake gif](https://github.com/Aashish-Jha-11/Aashish-Jha-11/blob/output/github-snake-dark.svg)
 
 
